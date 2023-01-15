@@ -1,0 +1,23 @@
+[
+    {
+        "description": "Pick up eggs",
+        "title": "Go to the store",
+        "priority": 5,
+        "id": 1,
+        "complete": false
+    },
+    {
+        "description": "Grass is getting long",
+        "title": "Cut the lawn",
+        "priority": 2,
+        "id": 2,
+        "complete": false
+    },
+    {
+        "description": "He is getting hungry",
+        "title": "Feed the dog",
+        "priority": 5,
+        "id": 3,
+        "complete": false
+    }
+]
